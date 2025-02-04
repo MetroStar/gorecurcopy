@@ -1,3 +1,3 @@
-module github.com/plus3it/gorecurcopy
+module github.com/MetroStar/gorecurcopy
 
 go 1.12
